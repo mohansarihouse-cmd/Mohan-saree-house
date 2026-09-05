@@ -1,0 +1,6 @@
+{
+  "name": "Mohan Saree House",
+  "description": "Showcase of exquisite sarees and lehengas, customer ratings and reviews, broadcast updates group, bilingual Hindi/English support, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
